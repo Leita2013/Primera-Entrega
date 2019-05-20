@@ -1,0 +1,17 @@
+{
+  "name": "practica",
+  "version": "1.0.1",
+  "description": "primera entrega curso Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leandra leandramagallysanchez@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "inquirer": "^6.2.2",
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {}
+}
